@@ -9,4 +9,4 @@ Bernoulli Naive Bayes: 85.953%
 Logistic Regression: 95.904%
 Support Vector Clustering (SVC): 93.883%
 
-Version 2 has various bits of code with LDA classification, but is uploaded more as a playground for various experiments in NLP at a time during which I am very unfamiliar with the NLP process, rather than as an example of good code. 
+Version 2 has various bits of code with LDA classification, and is uploaded more as a playground for various experiments in NLP at a time during which I am very unfamiliar with the NLP process, rather than as an example of good code. It has not been uploaded due to filesize constraints.
