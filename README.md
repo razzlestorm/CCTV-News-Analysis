@@ -14,3 +14,5 @@ Support Vector Clustering (SVC): 93.883%
 
 
 Version 2 has various bits of code with LDA classification, and is uploaded more as a playground for various experiments in NLP at a time during which I am very unfamiliar with the NLP process, rather than as an example of good code. It has not been uploaded due to filesize constraints.
+
+A blogpost of this can be viewed here: https://towardsdatascience.com/analysis-of-chinese-media-393c5c60c644
